@@ -1,0 +1,9 @@
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\bin\Debug\OOP5.exe.config
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\bin\Debug\OOP5.exe
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\bin\Debug\OOP5.pdb
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.Form1.resources
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.Properties.Resources.resources
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.exe
+C:\Users\Julia\Documents\учеба\4 сем\ООП\OOP5\OOP5\obj\Debug\OOP5.pdb
